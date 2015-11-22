@@ -8,8 +8,6 @@ If it has not been reported, create a new issue with at least the following info
 - a short, descriptive title;
 - a detailed description of the issue
 
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
-
 
 Conduct
 -------
