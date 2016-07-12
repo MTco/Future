@@ -8,7 +8,6 @@ If it has not been reported, create a new issue with at least the following info
 - a short, descriptive title;
 - a detailed description of the issue
 
-
 Conduct
 -------
 
