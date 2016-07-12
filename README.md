@@ -1,4 +1,4 @@
-Collaborating
+##Collaborating
 ----------------
 
 First search the [issue list](https://github.com/MaxMillion/world/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+is%3Aclosed+) to see if it has already been reported. Include closed issues in your search.
@@ -7,6 +7,7 @@ If it has not been reported, create a new issue with at least the following info
 
 - a short, descriptive title;
 - a detailed description of the issue
+
 
 Conduct
 -------
